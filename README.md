@@ -10,7 +10,7 @@
 
 ![3](https://user-images.githubusercontent.com/92686626/232914763-ed20f8ba-4c58-40b7-b5da-30f5f02fab10.PNG)
 
-4/Se connceter en tant qu'administrateur utilisant le username "ADMIN" et le mot de passe :"1234"
+4/Se connecter en tant qu'administrateur utilisant le username "ADMIN" et le mot de passe :"1234"
 
 ![4](https://user-images.githubusercontent.com/92686626/232914842-5b8e6d64-fef2-4bd6-bf84-64b9db697fa1.PNG)
 
